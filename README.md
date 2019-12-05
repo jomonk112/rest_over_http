@@ -36,3 +36,12 @@ For run this project please follow the instructions
 	"test":"test"
   }
   ```
+## REST over HTTP(S)
+
+Even since RESTful architecture style was proposed by Roy Fielding, we’ve been seeing a huge wave of adoption especially in web application development. The constraints proposed by Fielding despite not being a standard, shall always be adhered before declaring our API as RESTful.
+
+There are variety of REST over HTTP(S), since there is no standard to be enforced. Developers are free to choose forming a request payload in JSON, XML or some self-defined format.
+
+REST over HTTP(S) simply means using REST architectural style and send requests over HTTP(S).
+
+Eg: JSON-RPC
